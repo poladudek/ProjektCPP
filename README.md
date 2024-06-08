@@ -1,14 +1,14 @@
 SUDOKU SOLVER
 -------------
-Autor: Pola Dudek
-Krakow 2024
+###Autor: Pola Dudek
+### Krakow 2024
 -------------
 
-#---- Opis projektu:
+## Opis projektu:
 
 Program służy do rozwiązywania poprawnie wprowadzonych plansz Sudoku. Plansza powinna zostać interaktywnie uzupełniona przez użytkownika.
 
-#---- Najważniejsze elementy projektu:
+## Najważniejsze elementy projektu:
 
 Program podzielony jest na trzy moduły: `SudokuGrid`, `Buttons` oraz `SudokuApp`.
 
@@ -31,7 +31,7 @@ Moduł ten zawiera klasę bazową `Buttons`, posiadającą dwa różne konstrukt
 
 Moduł odpowiada za GUI programu, napisany przy użyciu biblioteki SFML.
 
-#----- Uruchomienie programu:
+## Uruchomienie programu:
 
 Aby skompilować i uruchomić program, należy użyć pliku CMake.
 
@@ -41,7 +41,7 @@ Aby skompilować i uruchomić program, należy użyć pliku CMake.
 4. Nastepnie nalezy skompilowac program, komenda "make":
 5. Koncowo uruchomic program komenda "./sudoku".
 
-#----- Projekt wymaga:
+## Projekt wymaga:
 
 - standardu C++17
 - CMake
