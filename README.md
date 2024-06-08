@@ -32,7 +32,7 @@ Modul odpowiada za GUI programu, napisany jest w oparciu o biblioteke SFML.
 
 Aby skompilowac i uruchomic program, nalezy uzyc pliku CMake.
 
-1. Nalezy otworzyc terminal i przejsc do folderu SudokuSolver np. komenda `"cd SudokuSolver"`.
+1. Nalezy otworzyc terminal i przejsc do folderu SudokuSolver np. komenda `"cd sudokuSolver"`.
 2. Nastepnie nalezy przejsc do podfolderu build uzywajac komendy `"cd build"`.
 3. Kolejno nalezy wywolac CMake komenda `"cmake .."`.
 4. Nastepnie nalezy skompilowac program, komenda `"make"`:
